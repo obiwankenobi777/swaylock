@@ -1,0 +1,19 @@
+# Cor de fundo
+color=000000ff
+
+# Imagem de fundo (opcional)
+# image=/caminho/para/sua/imagem.jpg
+
+# Mostrar indicador de tentativas falhas
+show-failed-attempts
+
+# Ignorar senha vazia
+ignore-empty-password
+
+# Cor do texto
+indicator-idle-visible
+indicator-radius=100
+indicator-thickness=7
+ring-color=ffffff
+text-color=ffffff
+
