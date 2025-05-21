@@ -3,6 +3,7 @@ color=000000ff
 
 # Imagem de fundo (opcional)
 # image=/caminho/para/sua/imagem.jpg
+image=/home/ian/downloads/wallpaper/arch/3.png
 
 # Mostrar indicador de tentativas falhas
 show-failed-attempts
